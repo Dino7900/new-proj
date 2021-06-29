@@ -5,7 +5,7 @@ echo -e "\e[1;41mDo Not Touch Till Setup Completion  ...\e[0m"
 sleep 5
 apt update
 apt install toilet -y
-toilet -f mono12 -F border:gay 'ICT'
+toilet -f mono12 -F border:gay 'ICA'
 echo -e "\e[1;41mInstalling  ...\e[0m"
 echo -e "\e[1;42mInstalling 10% ...\e[0m"
 echo -e "\e[1;43mInstalling Modules .... \e[0m"
